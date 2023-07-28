@@ -1,6 +1,6 @@
 # Rotary Encoder Board
 
-This a printed circuit board (PCB) designed to make a rotary encoder to prototype.
+This a printed circuit board (PCB) designed to make a rotary encoder easier to prototype.
 
 This was created using KiCad.
 
