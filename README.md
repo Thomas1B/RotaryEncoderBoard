@@ -2,7 +2,7 @@
 
 This a printed circuit board (PCB) designed to make a rotary encoder easier to prototype.
 
-This was created using KiCad.
+This was created using KiCad. To open the KiCad file, double click the ".pro" file.
 
 See https://github.com/Thomas1B/Arduino-Stuff/tree/main/Rotary_Encoder_tester for Arduino Code.
 
