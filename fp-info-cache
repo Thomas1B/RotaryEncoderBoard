@@ -1,4 +1,4 @@
-21991845328825788
+22000447517300552
 000_Thomas_Footprints
 7443551331(inductor)
 
@@ -31,6 +31,13 @@ https://docs.arduino.cc/hardware/mega-2560
 CAP_35SVPF22M
 
 
+0
+2
+2
+000_Thomas_Footprints
+CONN2_1437664-4_TEC
+
+NC6-P107-02 
 0
 2
 2
@@ -84,26 +91,19 @@ Dfplayer
 6
 6
 000_Thomas_Footprints
+EG1218 Slide Switch
+
+
+0
+3
+3
+000_Thomas_Footprints
 ESP8266_ESP01_cp
 
 
 0
 8
 8
-000_Thomas_Footprints
-FUSE_3519
-
-
-0
-2
-2
-000_Thomas_Footprints
-Fuse
-Fuse 5x20mm cartridge
-Fuse, 5x20mm, Fuse Cartridge
-0
-4
-2
 000_Thomas_Footprints
 Fuse Cartridge 5x20mm
 Fuse Cartridge 5x20mm
@@ -118,6 +118,20 @@ G3MB-202PDC5 Relay
 0
 4
 4
+000_Thomas_Footprints
+GCT_USB4125-GF-A_REVA2
+
+
+0
+10
+10
+000_Thomas_Footprints
+GCT_USB4515-GF-A_REVA
+
+
+0
+10
+10
 000_Thomas_Footprints
 GY-521_MPU-6050_Module
 
@@ -146,6 +160,13 @@ LED_WS2812B-B
 0
 4
 4
+000_Thomas_Footprints
+LM19
+
+
+0
+3
+3
 000_Thomas_Footprints
 LM317D2TR4G
 
@@ -252,6 +273,13 @@ Rotary Encoder
 7
 6
 000_Thomas_Footprints
+Rotary Encoder - PEC11R
+
+
+0
+7
+6
+000_Thomas_Footprints
 SW_JS202011SCQN
 
 
@@ -273,19 +301,26 @@ SW_PTS636_SM43J_SMTR_LFS
 2
 2
 000_Thomas_Footprints
-TE_1-2199298-2
-
-
-0
-8
-8
-000_Thomas_Footprints
 TE_282836-3
 
 
 0
 3
 3
+000_Thomas_Footprints
+THT Enclosed Fuse Holder
+
+
+0
+2
+2
+000_Thomas_Footprints
+THT Open Fuse Holder
+<b>WR-FSH Fuseholder THT Blocks PCB Clip Cover<br><br></b>Mates with 696122003001, https://www.we-online.com/components/products/datasheet/696108003002.pdf
+
+0
+2
+2
 000_Thomas_Footprints
 TRS Breadboard Aux Jack
 
